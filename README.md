@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Happy é um projeto de desenvolvimento Web/Mobile, criado na terceira edição do workshop promovido pela Rocketseat, conhecida como Next Level Week - NLW que disponibiliza materiais complementares e uma trilha para construção dessa aplicação. Esta é a minha versão do projeto, o que aprendi. 
+O Happy é um projeto de desenvolvimento Web/Mobile, criado na terceira edição do workshop promovido pela Rocketseat, conhecida como Next Level Week - NLW que disponibiliza, aulas, materiais complementares e uma trilha para construção dessa aplicação. Este é o resultado, a minha versão do projeto, o que aprendi. 
 
 O Projeto consiste numa aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz. 💜
 

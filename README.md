@@ -33,25 +33,58 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
+O Happy é um projeto de desenvolvimento Web/Mobile, criado na terceira edição do workshop promovido pela Rocketseat, conhecida como Next Level Week - NLW que disponibiliza, aulas, materiais complementares e uma trilha para construção dessa aplicação. Este é o resultado, a minha versão do projeto, o que aprendi. Material muito completo, dinâmico e preciso, deixo aqui meu agradecimento a rocketseat.
+
+O Projeto consiste numa aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz. 💜
+
+### Recursos abordados
+- [x] Conceitos de backend, frontend e API
+- [x] React, TypeScript, ReactJS, 
+- [x] Back-end com Node.js
+- [x] Node.js com Typescript
+- [x] Express - Microframework web para criação das APIs
+- [x] Insomnia - Testes de rotas das APIs
+- [x] Migration - Controle das estruturas do banco de dados
+- [x] Beekeeper Studio - Cliente de banco de dados SQLite
+- [x] Medels, rotas, validação de dados back-end
+- [x] Decorators
+- [x] rotas, parâmetros e métodos HTTP
+- [x] Arquitetura do Banco de Dados
+- [x] Persistência de Dados (Driver nativo - Query builder - ORM)
+- [x] State dentro do React
+- [x] Hooks (ganchos) - useEffect() useState()
+- [x] Programação Declarativa
+- [x] Abstraindo em controller
+- [x] Upload de imagens
+- [x] Desenvolvimento tradicional Nativo vs Multiplataforma (RN)
+- [x] Trabalhando com Views
+- [x] Lidando com exceções
+- [x] Componentes (State, Funções/Comportamento, Visual (HTML+CSS))
+- [x] Validação de dados
+- [x] Estruturando APP mobile
+- [x] Single-page Application (SPA)
+- [x] React Native e as diferenças para ReactJS
+- [x] Utilizando Expo
+- [x] Loading Page
+- [x] Trabalhando com rotas
+- [x] Utilização de mapas
 
 ## 🔖 Layout
 
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Abaixo você encontra o layout do projeto web e também mobile. 
 
-- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
-- [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
+### Layout Mobile
 
-## 🧠 Desafio
+<p align="center">
+  <img alt="Happy" src=".github/layoutApp.png" width="50%">
+</p>
 
-No link a seguir você encontra o guia no Notion referente aos desafios propostos para que você possa percorrer a milha extra e incrementar ainda mais essa aplicação. Lá também você encontra um guia mostrando todo o passo a passo de como realizar o deploy tanto do backend quanto do frontend.
+### Layout Web
 
-- [Desafio Happy 2.0](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4)
+<p align="center">
+  <img alt="Happy" src=".github/layoutWeb.png" width="50%">
+</p>
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Esse projeto está sob a licença MIT.

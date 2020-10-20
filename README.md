@@ -38,36 +38,36 @@ O Happy é um projeto de desenvolvimento Web/Mobile, criado na terceira edição
 O Projeto consiste numa aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz. 💜
 
 ### Recursos abordados
-[x] Conceitos de backend, frontend e API
-[x] React, TypeScript, ReactJS, 
-[x] Back-end com Node.js
-[x] Node.js com Typescript
-[x] Express - Microframework web para criação das APIs
-[x] Insomnia - Testes de rotas das APIs
-[x] Migration - Controle das estruturas do banco de dados
-[x] Beekeeper Studio - Cliente de banco de dados SQLite
-[x] Medels, rotas, validação de dados back-end
-[x] Decorators
-[x] rotas, parâmetros e métodos HTTP
-[x] Arquitetura do Banco de Dados
-[x] Persistência de Dados (Driver nativo - Query builder - ORM)
-[x] State dentro do React
-[x] Hooks (ganchos) - useEffect() useState()
-[x] Programação Declarativa
-[x] Abstraindo em controller
-[x] Upload de imagens
-[x] Desenvolvimento tradicional Nativo vs Multiplataforma (RN)
-[x] Trabalhando com Views
-[x] Lidando com exceções
-[x] Componentes (State, Funções/Comportamento, Visual (HTML+CSS))
-[x] Validação de dados
-[x] Estruturando APP mobile
-[x] Single-page Application (SPA)
-[x] React Native e as diferenças para ReactJS
-[x] Utilizando Expo
-[x] Loading Page
-[x] Trabalhando com rotas
-[x] Utilização de mapas
+- [x] Conceitos de backend, frontend e API
+- [x] React, TypeScript, ReactJS, 
+- [x] Back-end com Node.js
+- [x] Node.js com Typescript
+- [x] Express - Microframework web para criação das APIs
+- [x] Insomnia - Testes de rotas das APIs
+- [x] Migration - Controle das estruturas do banco de dados
+- [x] Beekeeper Studio - Cliente de banco de dados SQLite
+- [x] Medels, rotas, validação de dados back-end
+- [x] Decorators
+- [x] rotas, parâmetros e métodos HTTP
+- [x] Arquitetura do Banco de Dados
+- [x] Persistência de Dados (Driver nativo - Query builder - ORM)
+- [x] State dentro do React
+- [x] Hooks (ganchos) - useEffect() useState()
+- [x] Programação Declarativa
+- [x] Abstraindo em controller
+- [x] Upload de imagens
+- [x] Desenvolvimento tradicional Nativo vs Multiplataforma (RN)
+- [x] Trabalhando com Views
+- [x] Lidando com exceções
+- [x] Componentes (State, Funções/Comportamento, Visual (HTML+CSS))
+- [x] Validação de dados
+- [x] Estruturando APP mobile
+- [x] Single-page Application (SPA)
+- [x] React Native e as diferenças para ReactJS
+- [x] Utilizando Expo
+- [x] Loading Page
+- [x] Trabalhando com rotas
+- [x] Utilização de mapas
 
 ## 🔖 Layout
 
